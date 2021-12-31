@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Squirrel-dataset</folder>
+	<filename>squirrel-22.jpg</filename>
+	<path>C:\Users\user\Downloads\Squirrel-dataset\squirrel-22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1980</xmin>
+			<ymin>696</ymin>
+			<xmax>5106</xmax>
+			<ymax>3948</ymax>
+		</bndbox>
+	</object>
+</annotation>

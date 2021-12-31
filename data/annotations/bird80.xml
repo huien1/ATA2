@@ -1,0 +1,26 @@
+<annotation>
+	<folder>birds</folder>
+	<filename>bird80.jpg</filename>
+	<path>C:\Users\hui\Y3S2\ATA\Assignment\Assignment 2\birds\bird80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>104</ymin>
+			<xmax>338</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

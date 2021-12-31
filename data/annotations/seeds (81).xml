@@ -1,0 +1,26 @@
+<annotation>
+	<folder>seeds</folder>
+	<filename>seeds (81).jpg</filename>
+	<path>C:\Users\hui\Y3S2\ATA\Assignment\Assignment 2\data\seeds\seeds (81).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>15</ymin>
+			<xmax>950</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

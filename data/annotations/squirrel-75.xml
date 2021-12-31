@@ -1,0 +1,26 @@
+<annotation>
+	<folder>squirrel</folder>
+	<filename>squirrel-75.jpg</filename>
+	<path>C:\Users\hui\Y3S2\ATA\Assignment\Assignment 2\data\squirrel\squirrel-75.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squirrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>1186</ymin>
+			<xmax>3503</xmax>
+			<ymax>4426</ymax>
+		</bndbox>
+	</object>
+</annotation>
